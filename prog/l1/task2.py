@@ -6,4 +6,3 @@ zalyshok = k % n  # залишок
 # визначення результату
 print("Кількість яблук на одного школяра:", kilkist_na_odnogo)
 print("Залишок яблук у кошику:", zalyshok)
-# https://replit.com/@grigoruknadia15/HWtask2#main.py
