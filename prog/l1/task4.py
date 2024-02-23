@@ -6,3 +6,4 @@ total_students = klas1 + klas2 + klas3
 total_desks = (total_students + 1)  // 2
 
 print("Потрібно закупити {} парт(и)", total_desks)
+
